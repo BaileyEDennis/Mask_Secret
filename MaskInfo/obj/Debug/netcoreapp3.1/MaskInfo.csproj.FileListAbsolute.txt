@@ -1,0 +1,13 @@
+C:\Users\baile\source\repos\MaskInfo\MaskInfo\bin\Debug\netcoreapp3.1\MaskInfo.exe
+C:\Users\baile\source\repos\MaskInfo\MaskInfo\bin\Debug\netcoreapp3.1\MaskInfo.deps.json
+C:\Users\baile\source\repos\MaskInfo\MaskInfo\bin\Debug\netcoreapp3.1\MaskInfo.runtimeconfig.json
+C:\Users\baile\source\repos\MaskInfo\MaskInfo\bin\Debug\netcoreapp3.1\MaskInfo.runtimeconfig.dev.json
+C:\Users\baile\source\repos\MaskInfo\MaskInfo\bin\Debug\netcoreapp3.1\MaskInfo.dll
+C:\Users\baile\source\repos\MaskInfo\MaskInfo\bin\Debug\netcoreapp3.1\MaskInfo.pdb
+C:\Users\baile\source\repos\MaskInfo\MaskInfo\obj\Debug\netcoreapp3.1\MaskInfo.csprojAssemblyReference.cache
+C:\Users\baile\source\repos\MaskInfo\MaskInfo\obj\Debug\netcoreapp3.1\MaskInfo.AssemblyInfoInputs.cache
+C:\Users\baile\source\repos\MaskInfo\MaskInfo\obj\Debug\netcoreapp3.1\MaskInfo.AssemblyInfo.cs
+C:\Users\baile\source\repos\MaskInfo\MaskInfo\obj\Debug\netcoreapp3.1\MaskInfo.csproj.CoreCompileInputs.cache
+C:\Users\baile\source\repos\MaskInfo\MaskInfo\obj\Debug\netcoreapp3.1\MaskInfo.dll
+C:\Users\baile\source\repos\MaskInfo\MaskInfo\obj\Debug\netcoreapp3.1\MaskInfo.pdb
+C:\Users\baile\source\repos\MaskInfo\MaskInfo\obj\Debug\netcoreapp3.1\MaskInfo.genruntimeconfig.cache
